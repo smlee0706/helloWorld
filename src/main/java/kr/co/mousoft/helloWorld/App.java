@@ -15,5 +15,6 @@ public class App
         System.out.println( "3rd Commit & Pish!");
         System.out.println( "Test Smart commit");
         System.out.println( "Test Smart commit2");
+        System.out.println( "Test Smart commit3");
     }
 }
