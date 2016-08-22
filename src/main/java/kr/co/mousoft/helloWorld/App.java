@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello Seungmin!" );
+        System.out.println( "1st Commit & Pish!")
     }
 }
