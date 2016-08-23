@@ -22,5 +22,6 @@ public class App
         System.out.println( "test BAN-11");
         System.out.println( "test BAN-11 comment");
         System.out.println( "test BAN-11 smlee0706");
+        System.out.println( "test BAN-11 change status");
     }
 }
