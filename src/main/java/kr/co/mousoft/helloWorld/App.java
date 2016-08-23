@@ -19,7 +19,5 @@ public class App
         System.out.println( "Test Smart commit4");
         System.out.println( "After email match with jira user");
         System.out.println( "no idea");
-        System.out.println( "BAN-11 issue close");
-
     }
 }
