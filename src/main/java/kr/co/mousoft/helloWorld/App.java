@@ -17,5 +17,6 @@ public class App
         System.out.println( "Test Smart commit2");
         System.out.println( "Test Smart commit3");
         System.out.println( "Test Smart commit4");
+        System.out.println( "After email match with jira user");
     }
 }
