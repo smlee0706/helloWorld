@@ -26,5 +26,6 @@ public class App
         System.out.println( "test BAN-11 change Assign");
         System.out.println( "test BAN-11 change role");
         System.out.println( "test BAN-11 change analyzing");
+        System.out.println( "create TP review");
     }
 }
