@@ -20,5 +20,6 @@ public class App
         System.out.println( "After email match with jira user");
         System.out.println( "no idea");
         System.out.println( "test BAN-11");
+        System.out.println( "test BAN-11 comment");
     }
 }
