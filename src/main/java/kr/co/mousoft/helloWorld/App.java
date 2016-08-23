@@ -23,7 +23,7 @@ public class App
         System.out.println( "test BAN-11 comment");
         System.out.println( "test BAN-11 smlee0706");
         System.out.println( "test BAN-11 change status");
-        System.out.println( "test BAN-11 change Assigned");
+        System.out.println( "test BAN-11 change Assign");
 
     }
 }
