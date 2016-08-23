@@ -24,6 +24,7 @@ public class App
         System.out.println( "test BAN-11 smlee0706");
         System.out.println( "test BAN-11 change status");
         System.out.println( "test BAN-11 change Assign");
+        System.out.println( "test BAN-11 change role");
 
     }
 }
